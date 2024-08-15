@@ -1,4 +1,4 @@
-To run this project you must instal in PyCharm: 
+To run this project you must install in PyCharm: 
 
 ```
 pip install subprocess.run
